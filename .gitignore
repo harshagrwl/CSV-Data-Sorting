@@ -1,0 +1,4 @@
+# Ignore any CSV generated
+*.csv
+obj/*
+bin/*
