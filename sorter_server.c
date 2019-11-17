@@ -12,8 +12,8 @@
 #include <netdb.h>
 #include <sys/uio.h>
 #include <assert.h>
-#include <sorter.h>
-#include <sorter_server.h>
+#include "sorter.h"
+#include "sorter_server.h"
 #include "mergesort.c"
 #include <ctype.h>
 #include <errno.h>
