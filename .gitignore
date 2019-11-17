@@ -1,0 +1,3 @@
+obj/*
+# Ignore any CSV generated
+*.csv
